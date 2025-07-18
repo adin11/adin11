@@ -1,7 +1,9 @@
 <!-- Profile README - Data Scientist -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Adin </h1>
 <h3 align="center">A passionate Data Scientist & Machine Learning Enthusiast</h3>
+<h4 align="center">I love dealing with data, building preditctve models, deriving insights from large datasets which support business growth.</h4>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
@@ -11,12 +13,12 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **projects involving deep learning and generative AI**
+- 🔭 I’m currently working on **projects involving deep learning and NLP**
 - 🌱 I’m currently learning **MLOps, Model Deployment & Large Language Models (LLMs)**
 - 📝 I regularly write articles on [Medium](https://medium.com/@yourusername)
 - 💬 Ask me about **data analysis, machine learning, NLP, and visualization**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I use `Python` more than I use my kitchen 😄
+- 📫 How to reach me: **adinraja78@gmail.com**
+- ⚡ Fun fact: I use love dealing with data more than sleeping 😄
 
 ---
 
